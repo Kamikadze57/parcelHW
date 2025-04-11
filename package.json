@@ -1,0 +1,23 @@
+{
+  "name": "parcelhw",
+  "version": "1.0.0",
+  "description": "Робота з Parcel",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamikadze57/parcelHW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamikadze57/parcelHW/issues"
+  },
+  "homepage": "https://github.com/Kamikadze57/parcelHW#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
